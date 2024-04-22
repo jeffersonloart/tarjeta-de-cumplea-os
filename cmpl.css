@@ -1,0 +1,29 @@
+/* Estilos para la tarjeta */
+.tarjeta {
+    background-color: pink; /* Cambiamos el color de fondo de la tarjeta a rosa */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Estilos para el sobre */
+.sobre {
+    width: 150px;
+    height: 100px;
+    background-color: #F0E68C; /* Cambiamos el color de fondo del sobre a rosa */
+    border: 3px solid #FFD700; /* Cambiamos el color del borde del sobre a dorado */
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.abrir-texto {
+    font-size: 18px;
+    color: #8B4513; /* Cambiamos el color del texto a marrón */
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
